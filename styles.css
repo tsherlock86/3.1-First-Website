@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+body {
+   font-size: 1em;
+   color: #000;
+   font-family: Open Sans;
+}
+.wrapper {
+  margin: 0 auto;
+  text-align: center;
+}
+img {
+  width: 330px;
+  height: 330px;
+  border-radius: 15px 15px 0px 0px;
+}
+h1, h2 {
+  text-align: center;
+  margin: 0 auto;
+}
+p {
+  font-size: 1em;
+  display: inline-block;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 0px;
+}
+
+.box1, .box2 {
+  height: 480px;
+  display: inline-block;
+  border: 2px solid #d3d3d3 ;
+  margin: 40px;
+  border-radius: 15px 15px 0px 0px;
+  overflow: hidden;
+}
+.money {
+  display: inline-block;
+  padding-top: 5px;
+  padding: 0px;
+  height: 30%;
+  width: 100%;
+  border: 2px solid #d3d3d3;
+
+  display: inline-block;
+}
+h1 {
+  padding-top: 10px;
+}
+h2 {
+  font-style: italic;
+}
+h5 {
+  margin: 0px;
+}
